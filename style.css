@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+canvas{
+    display: block;
+}
+
+.scene{
+    width: 800px;
+    height: 800px;
+    margin: 20px;
+    float: left;
+}
+
+#features{
+    float: left;
+   margin-right: 350px;
+   margin-top:150px;
+    text-size-adjust: 20;
+}
+
+.scene2{
+    width: 300px;
+    height: 300px;
+}
